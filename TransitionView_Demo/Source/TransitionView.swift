@@ -1,6 +1,6 @@
 //
-//  TransitionLabel.swift
-//  Imitate_Threes
+//  TransitionView.swift
+//  TransitionView
 //
 //  Created by 任岐鸣 on 2016/10/19.
 //  Copyright © 2016年 Ned. All rights reserved.
